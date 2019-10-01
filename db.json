@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Bugfix",
+      "deadline": "2019-10-13",
+      "description": "Meg kellene javítani",
+      "stateName": "Created",
+      "stateId": 1
+    },
+    {
+      "id": 2,
+      "title": "Feature",
+      "deadline": "2019-10-20",
+      "description": "Implementélni kéne a feature-t",
+      "stateName": "Created",
+      "stateId": 1
+    },
+    {
+      "id": 3,
+      "title": "Bugfix 2",
+      "deadline": "2019-09-30",
+      "description": "Meg kellene javítani",
+      "stateName": "InProgress",
+      "stateId": 2
+    },
+    {
+      "id": 4,
+      "title": "Feature 2",
+      "deadline": "2019-10-30",
+      "description": "Implementélni kéne a feature-t",
+      "stateName": "InProgress",
+      "stateId": 2
+    }
+  ],
+  
+  "states": [
+  {
+    "id": 1,
+    "name": "Created"
+  },
+  {
+    "id": 2,
+    "name": "InProgress"
+  },
+  {
+    "id": 3,
+    "name": "Ready"
+  },
+  {
+    "id": 4,
+    "name": "Cancelled"
+  }]
+}
