@@ -5,7 +5,6 @@
       "title": "Bugfix",
       "deadline": "2019-10-13",
       "description": "Meg kellene javítani",
-      "stateName": "Created",
       "stateId": 1
     },
     {
@@ -13,7 +12,6 @@
       "title": "Feature",
       "deadline": "2019-10-20",
       "description": "Implementélni kéne a feature-t",
-      "stateName": "Created",
       "stateId": 1
     },
     {
@@ -21,7 +19,6 @@
       "title": "Bugfix 2",
       "deadline": "2019-09-30",
       "description": "Meg kellene javítani",
-      "stateName": "InProgress",
       "stateId": 2
     },
     {
@@ -29,7 +26,6 @@
       "title": "Feature 2",
       "deadline": "2019-10-30",
       "description": "Implementélni kéne a feature-t",
-      "stateName": "InProgress",
       "stateId": 2
     }
   ],
