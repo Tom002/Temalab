@@ -5,28 +5,32 @@
       "title": "Bugfix",
       "deadline": "2019-10-13",
       "description": "Meg kellene javítani",
-      "stateId": 1
+      "stateId": 1,
+      "order":1
     },
     {
       "id": 2,
       "title": "Feature",
       "deadline": "2019-10-20",
       "description": "Implementélni kéne a feature-t",
-      "stateId": 1
+      "stateId": 1,
+      "order":2
     },
     {
       "id": 3,
       "title": "Bugfix 2",
       "deadline": "2019-09-30",
       "description": "Meg kellene javítani",
-      "stateId": 2
+      "stateId": 2,
+      "order":3
     },
     {
       "id": 4,
       "title": "Feature 2",
       "deadline": "2019-10-30",
       "description": "Implementélni kéne a feature-t",
-      "stateId": 2
+      "stateId": 2,
+      "order":2
     }
   ],
   
